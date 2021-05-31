@@ -1,47 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://wordpress-362557-1963459.cloudwaysapps.com/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://wordpress-362557-1963459.cloudwaysapps.com/feed/";
+		</script>
 
-<channel>
-	<title>AtmoVantage IPFS</title>
-	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Your Advantage in the IPFS Environment</description>
-	<lastBuildDate>Mon, 31 May 2021 16:52:12 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>Welcome to the Web3</title>
-		<link>/index.php/2021/05/31/welcome-to-the-web3/</link>
-					<comments>/index.php/2021/05/31/welcome-to-the-web3/#respond</comments>
-		
-		<dc:creator><![CDATA[Austin]]></dc:creator>
-		<pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[This website is built using WordPress, but then converted to a static site and is hosted on the IPFS (InterPlanetary File System). The IPFS is a decentralized, censorship-proof, peer-to-peer blockchain used to store and retrieve files. Welcome to the next generation of the Internet: Web3. Learn more about IPFS here.]]></description>
-										<content:encoded><![CDATA[
-<p>This website is built using WordPress, but then converted to a static site and is hosted on the IPFS (InterPlanetary File System). The IPFS is a decentralized, censorship-proof, peer-to-peer blockchain used to store and retrieve files. Welcome to the next generation of the Internet: Web3.</p>
-
-
-
-<p>Learn more about IPFS here.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/index.php/2021/05/31/welcome-to-the-web3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
-</rss>
+		<p>You are being redirected to <a href="https://wordpress-362557-1963459.cloudwaysapps.com/feed/">https://wordpress-362557-1963459.cloudwaysapps.com/feed/</a></p>
+	</body>
+</html>
