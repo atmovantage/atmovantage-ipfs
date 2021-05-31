@@ -12,7 +12,7 @@
 	<atom:link href="/author/austin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Your Advantage in the IPFS Environment</description>
-	<lastBuildDate>Mon, 31 May 2021 16:52:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 May 2021 18:21:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -43,7 +43,7 @@
 
 
 
-<p>Learn more about IPFS here.</p>
+<p><a href="https://ipfs.io/" data-type="URL" data-id="https://ipfs.io/" target="_blank" rel="noreferrer noopener">Learn more about IPFS here.</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/welcome-to-the-web3/feed/</wfw:commentRss>
