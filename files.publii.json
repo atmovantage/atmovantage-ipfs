@@ -1,0 +1,267 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "bd22b846f5ea0b779facdb02fa307a45"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "caf7a8491d7fdaa3304eb2832a5aef65"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "05ae0ae2b389f01b91cdf8a8e44e6817"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "932f325ea2f7fb1467e84c97f137e0f9"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "3fc55b509d613f5e49db25528dfafee1"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "b40f17fabcda1519011795fa715c5751"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/austin-shackelford",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/austin-shackelford/index.html",
+        "type": "file",
+        "md5": "1fc35e5f21b8f5e06a0c6853f752d952"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "e9b19107c1e32aa7b4da14628b7fb483"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/clouds-2329680_1920.jpg",
+        "type": "file",
+        "md5": "23969484abcd6c3fb81d4a67e54ed4b0"
+    },
+    {
+        "path": "/media/website/Faded-logo-no-background-small.png",
+        "type": "file",
+        "md5": "8aeb8423cf18dd56d4e9824eaadc284c"
+    },
+    {
+        "path": "/media/website/favicon-small.png",
+        "type": "file",
+        "md5": "eff8719ef56a70d4e776d46950f7ee23"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/clouds-2329680_1920-2xl.jpg",
+        "type": "file",
+        "md5": "f8794df7207eeccb044e846130842156"
+    },
+    {
+        "path": "/media/website/responsive/clouds-2329680_1920-lg.jpg",
+        "type": "file",
+        "md5": "988d2f41f2697ab3cbaed0d3f2ac168d"
+    },
+    {
+        "path": "/media/website/responsive/clouds-2329680_1920-md.jpg",
+        "type": "file",
+        "md5": "f9eacb1ca1793da519a3aa7249e86f8c"
+    },
+    {
+        "path": "/media/website/responsive/clouds-2329680_1920-sm.jpg",
+        "type": "file",
+        "md5": "b0756153f1e34d41b9669f8a79713187"
+    },
+    {
+        "path": "/media/website/responsive/clouds-2329680_1920-xl.jpg",
+        "type": "file",
+        "md5": "a26df7234e77ea940566170ce8b95593"
+    },
+    {
+        "path": "/media/website/responsive/clouds-2329680_1920-xs.jpg",
+        "type": "file",
+        "md5": "98983688903ebc8aa5a4d00262855322"
+    },
+    {
+        "path": "/media/website/responsive/Faded-logo-no-background-small-2xl.png",
+        "type": "file",
+        "md5": "5e725c8dff465318d13d3b2326c8a0f1"
+    },
+    {
+        "path": "/media/website/responsive/Faded-logo-no-background-small-lg.png",
+        "type": "file",
+        "md5": "5e725c8dff465318d13d3b2326c8a0f1"
+    },
+    {
+        "path": "/media/website/responsive/Faded-logo-no-background-small-md.png",
+        "type": "file",
+        "md5": "5e725c8dff465318d13d3b2326c8a0f1"
+    },
+    {
+        "path": "/media/website/responsive/Faded-logo-no-background-small-sm.png",
+        "type": "file",
+        "md5": "5877afcd1febc606b816c0107b8d44f9"
+    },
+    {
+        "path": "/media/website/responsive/Faded-logo-no-background-small-xl.png",
+        "type": "file",
+        "md5": "5e725c8dff465318d13d3b2326c8a0f1"
+    },
+    {
+        "path": "/media/website/responsive/Faded-logo-no-background-small-xs.png",
+        "type": "file",
+        "md5": "f2ba5ed02a3b071394fc3406537f5cf7"
+    },
+    {
+        "path": "/media/website/responsive/favicon-small-2xl.png",
+        "type": "file",
+        "md5": "30e9962a8891de42c4fcf8fd2e1f2778"
+    },
+    {
+        "path": "/media/website/responsive/favicon-small-lg.png",
+        "type": "file",
+        "md5": "30e9962a8891de42c4fcf8fd2e1f2778"
+    },
+    {
+        "path": "/media/website/responsive/favicon-small-md.png",
+        "type": "file",
+        "md5": "30e9962a8891de42c4fcf8fd2e1f2778"
+    },
+    {
+        "path": "/media/website/responsive/favicon-small-sm.png",
+        "type": "file",
+        "md5": "30e9962a8891de42c4fcf8fd2e1f2778"
+    },
+    {
+        "path": "/media/website/responsive/favicon-small-xl.png",
+        "type": "file",
+        "md5": "30e9962a8891de42c4fcf8fd2e1f2778"
+    },
+    {
+        "path": "/media/website/responsive/favicon-small-xs.png",
+        "type": "file",
+        "md5": "30e9962a8891de42c4fcf8fd2e1f2778"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "ac7244f5439a97f22bd129b0d16972ae"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a8a32cea1681b6d35bbc92f96da9f4e8"
+    },
+    {
+        "path": "welcome-to-the-web3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/welcome-to-the-web3/index.html",
+        "type": "file",
+        "md5": "1bec1a7076c1f9577255b29ca925eeae"
+    }
+]
