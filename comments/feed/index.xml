@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for AtmoVantage IPFS	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Your Advantage in the IPFS Environment</description>
 	<lastBuildDate>Mon, 31 May 2021 18:21:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

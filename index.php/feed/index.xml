@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://wordpress-362557-1963459.cloudwaysapps.com/feed/">
+		<meta http-equiv="refresh" content="0;url=./feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://wordpress-362557-1963459.cloudwaysapps.com/feed/";
+			window.location = "./feed/";
 		</script>
 
-		<p>You are being redirected to <a href="https://wordpress-362557-1963459.cloudwaysapps.com/feed/">https://wordpress-362557-1963459.cloudwaysapps.com/feed/</a></p>
+		<p>You are being redirected to <a href="./feed/">./feed/</a></p>
 	</body>
 </html>

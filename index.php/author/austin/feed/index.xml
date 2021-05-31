@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://wordpress-362557-1963459.cloudwaysapps.com/author/austin/feed/">
+		<meta http-equiv="refresh" content="0;url=./author/austin/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://wordpress-362557-1963459.cloudwaysapps.com/author/austin/feed/";
+			window.location = "./author/austin/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="https://wordpress-362557-1963459.cloudwaysapps.com/author/austin/feed/">https://wordpress-362557-1963459.cloudwaysapps.com/author/austin/feed/</a></p>
+		<p>You are being redirected to <a href="./author/austin/feed/">./author/austin/feed/</a></p>
 	</body>
 </html>

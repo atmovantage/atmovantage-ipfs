@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Welcome to the Web3	</title>
-	<atom:link href="/welcome-to-the-web3/feed/" rel="self" type="application/rss+xml" />
-	<link>/welcome-to-the-web3/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Your Advantage in the IPFS Environment</description>
 	<lastBuildDate>Mon, 31 May 2021 18:21:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
